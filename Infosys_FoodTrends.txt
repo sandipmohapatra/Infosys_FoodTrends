@@ -5,6 +5,14 @@ Group-1
 3)Mahima
 4)Meher
 5)Pooja
+6)Kshitija
 
-6)Priya
-7)Srijana
+Group-2
+---------------------
+1)Priya
+2)Abhishek
+3)Srujana
+4)Subha sri
+5)Mili
+
+
