@@ -14,7 +14,7 @@ Group-2
 3)Srujana
 4)Subha sri
 5)Mili
-6)Tirumala
+6)Venkata SaiSrijana
 
 Group-3
 -----------------------
@@ -23,6 +23,5 @@ Group-3
 3)Parthiv
 4)Maithili
 5)Anjali
-
 
 
